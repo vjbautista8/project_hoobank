@@ -2,7 +2,7 @@
   "name": "hoobank",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://vjbautista8.github.io/project_hoobank",
+  "homepage": "http://vjbautista8.github.io/project_hoobank",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
